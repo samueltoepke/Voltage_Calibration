@@ -4,7 +4,7 @@ This project shows a simple analog calibration example.
 <h3>FILES:</h3>
 * ./doc        Holds documentation, printout of the method in case user is offline.
 * ./schematic  Holds a fritzing schematic of the complete setup.
-* ./src        Source code to run on the Arduino.
+* ./src        Source code to run on the Max32.
 * ./readme.txt This file, the readme.txt.
 
 <h3>SOFTWARE:</h3>
